@@ -1,5 +1,7 @@
 /* Styles généraux */
-
+:root {
+    --bg-header: #fff;
+}
 * {
     /* Réinitialise les marges et les paddings par défaut pour tous les éléments */
     margin: 0;
@@ -70,6 +72,10 @@ small {
 header {
     /* Définit la hauteur de l'en-tête */
     height: 120px;
+    position: fixed;
+    top: 0;
+    background-color: var(--bg-header);
+    width: 100%;
 }
 header h1 {
     /* Flotte le titre à gauche et ajoute une marge supérieure */
