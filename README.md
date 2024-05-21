@@ -35,12 +35,12 @@ Pour exécuter ce projet localement, suivez ces étapes :
 
 1. Clonez ce dépôt :
     ```bash
-    git clone https://github.com/votre-nom-utilisateur/agence-voyage.git
+    git clone https://github.com/votre-nom-utilisateur/travelAgency.git
     ```
 
 2. Accédez au répertoire du projet :
     ```bash
-    cd agence-voyage
+    cd travelAgency
     ```
 
 3. Installez les dépendances du frontend et du backend :
