@@ -80,7 +80,7 @@ Voici un aperçu de la structure des fichiers du projet :
 
 ## 🙏 Crédits
 
-- Design et développement par [Votre Nom](https://github.com/barryelhadj23).
+- Design et développement par [Elhadj Amadou Barry](https://github.com/barryelhadj23).
 - Police utilisée : [Crete Round](https://fonts.google.com/specimen/Crete+Round).
 
 ## 📄 Licence
